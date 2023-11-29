@@ -1,0 +1,26 @@
+<annotation>
+	<folder>曾小龙</folder>
+	<filename>192.168.10.113_01_20211206125016440_TIMING.jpg</filename>
+	<path>E:\other_space\ai标识\曾小龙\曾小龙\192.168.10.113_01_20211206125016440_TIMING.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tyre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1327</xmin>
+			<ymin>859</ymin>
+			<xmax>1495</xmax>
+			<ymax>1066</ymax>
+		</bndbox>
+	</object>
+</annotation>

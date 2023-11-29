@@ -1,0 +1,14 @@
+helmet
+no_helmet
+person
+cementTruck
+car
+muckTruck
+platformTruck
+tyre
+person_fall
+person_reflective_vest
+fire
+smoke
+person_security
+forklift

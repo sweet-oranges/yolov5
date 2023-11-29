@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20220119_待标注</folder>
+	<filename>300598_2022-01-17-13-00-23.jpg</filename>
+	<path>E:\itts\vehicle\20220119_待标注\300598_2022-01-17-13-00-23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>649</xmin>
+			<ymin>100</ymin>
+			<xmax>785</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>
